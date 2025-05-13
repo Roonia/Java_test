@@ -1,5 +1,5 @@
 package javaprojettest;
-
+// Adding a public class to the code
 public class app {
 	
 	public static void Main (String args[]) {
